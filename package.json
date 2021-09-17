@@ -1,0 +1,28 @@
+{
+  "name": "consulta_cep",
+  "version": "0.0.1",
+  "description": "Consultar CEP via API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deyvs/consulta_cep.git"
+  },
+  "keywords": [
+    "CEP",
+    "API",
+    "ConsutlaAPI"
+  ],
+  "author": "Deyvison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deyvs/consulta_cep/issues"
+  },
+  "homepage": "https://github.com/Deyvs/consulta_cep#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1"
+  }
+}
